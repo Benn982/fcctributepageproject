@@ -1,0 +1,65 @@
+htlm {
+    font-size: 10px;
+}
+
+    <style>
+        #image1 {
+            max-width: 10%;
+            max-height: auto;
+            align-self: auto;
+            display: block;
+        }
+    a: {
+    color:  #477ca7;
+    }
+    
+    a:visited {
+      color: #74638f;
+    }
+
+    #title {
+        color: rgb(7, 24, 173);
+        font-size: 70px;
+        text-align: center;
+        background-color: #9e9394;
+        background-size: 200px 100px;
+        margin-bottom: 0px;
+        }
+
+    p {
+        color: rgb(7, 24, 173);
+        font-size: 20px;
+        text-align: center;
+        background-color: #9e9394;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    #image1caption {
+        text-align: center;
+        color: rgb(7, 24, 173);
+        background-color: #9e9394;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 20px;
+        padding: 20px;
+    }
+
+    #whoisharrypotter {
+        font-size: 15px;
+        color: rgb(7, 24, 173);
+        background-color: #9e9394; 
+        margin-top: 0px;
+        padding: 100px;
+    }
+
+    #image2caption {
+        text-align: center;
+        font-size: 15px;
+        color: rgb(7, 24, 173);
+        background-color: #9e9394; 
+        margin-top: 0px;
+        padding: 100px;
+    }
+
+
