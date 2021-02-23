@@ -1,2 +1,0 @@
-# fcctributepageproject
-Tribute page project
